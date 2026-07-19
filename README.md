@@ -253,7 +253,6 @@ The dashboard provides:
 
 
 Flood-And-Drought-Monitoring-App-GEE-Platform/
-
 │
 ├── Flood_Drought_Monitoring_App.js
 │
@@ -459,9 +458,11 @@ Steps:
 
 ---
 # 👨‍💻 Author
-**Sohel Rana**
-Digital Currency Investor & Technical Lead
-https://github.com/SohelRana-aiub-Pro/Flood-And-Drought-Monitoring-App-GEE-Platform/
 
+**Sohel Rana**
+
+Digital Currency Investor & Technical Lead
+
+https://github.com/SohelRana-aiub-Pro/Flood-And-Drought-Monitoring-App-GEE-Platform/
 
 Related Resources; https://github.com/ianpdavies/cloudy_flood_prediction
